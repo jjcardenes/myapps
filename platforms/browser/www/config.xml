@@ -2,11 +2,12 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Nerea's Game Breakout</name>
     <description>
-        A blank PhoneGap app.
+        Juego Breakout
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="jjcardenes@gmail.com" href="https://github.com/jjcardenes/myapps">
+        JJ Cardenes
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon src="assets/misc/logo.png" />
 </widget>
